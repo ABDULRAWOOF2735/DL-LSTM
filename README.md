@@ -36,9 +36,9 @@ Build a bidirectional LSTM model for sequence tagging.
 
 Train the model over multiple epochs, tracking loss.
 
-### Name: Joel John Jobinse
+### Name: ABDULRAWOOF
 
-### Register Number: 212223240062
+### Register Number: 212224230003
 
 ## PROGRAM
 ```PYTHON
